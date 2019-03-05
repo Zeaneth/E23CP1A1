@@ -42,8 +42,8 @@ El objetivo de esta actividad es aprender a crear e implementar funcionalidades 
   <body>
     <script>
       prompt("Ingresa tu edad");
-      if (edad = 18){
-          alert(Eres mayor de edad);
+      if (edad => 18){
+          alert("Eres mayor de edad");
       }
     </script>
   </body>
